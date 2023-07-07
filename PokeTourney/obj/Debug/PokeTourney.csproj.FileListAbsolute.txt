@@ -1,0 +1,12 @@
+D:\Repos\PokeTourney\PokeTourney\obj\Debug\PokeTourney.csprojAssemblyReference.cache
+D:\Repos\PokeTourney\PokeTourney\obj\Debug\PokeTourney.csproj.CoreCompileInputs.cache
+D:\Repos\PokeTourney\PokeTourney\bin\Debug\PokeTourney.exe.config
+D:\Repos\PokeTourney\PokeTourney\bin\Debug\PokeTourney.exe
+D:\Repos\PokeTourney\PokeTourney\bin\Debug\PokeTourney.pdb
+D:\Repos\PokeTourney\PokeTourney\bin\Debug\EntityFramework.dll
+D:\Repos\PokeTourney\PokeTourney\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repos\PokeTourney\PokeTourney\bin\Debug\EntityFramework.xml
+D:\Repos\PokeTourney\PokeTourney\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repos\PokeTourney\PokeTourney\obj\Debug\PokeTourney.csproj.CopyComplete
+D:\Repos\PokeTourney\PokeTourney\obj\Debug\PokeTourney.exe
+D:\Repos\PokeTourney\PokeTourney\obj\Debug\PokeTourney.pdb
